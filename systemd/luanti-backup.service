@@ -3,5 +3,4 @@ Description=Luanti daily backup
 
 [Service]
 Type=oneshot
-User=user
 ExecStart=/home/user/scripts/luanti_backup.sh
